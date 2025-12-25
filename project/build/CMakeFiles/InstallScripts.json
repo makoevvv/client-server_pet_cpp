@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/cmake_install.cmake",
+		"/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/common/cmake_install.cmake",
+		"/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/cmake_install.cmake",
+		"/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

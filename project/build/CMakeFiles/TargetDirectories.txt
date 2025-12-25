@@ -1,0 +1,15 @@
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/CMakeFiles/edit_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/CMakeFiles/rebuild_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/common/CMakeFiles/common.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/common/CMakeFiles/edit_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/common/CMakeFiles/rebuild_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/CMakeFiles/qt-client.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/CMakeFiles/edit_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/CMakeFiles/rebuild_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/CMakeFiles/qt-client_autogen_timestamp_deps.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/client/CMakeFiles/qt-client_autogen.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/CMakeFiles/qt-server.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/CMakeFiles/edit_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/CMakeFiles/rebuild_cache.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/CMakeFiles/qt-server_autogen_timestamp_deps.dir
+/Users/ruslanmakoev/programming/pet-projects/CPP/test_task/project/build/server/CMakeFiles/qt-server_autogen.dir
